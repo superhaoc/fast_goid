@@ -1,1 +1,1 @@
-fast goid implementation via tls
+work recording about lighting rendering stuff
